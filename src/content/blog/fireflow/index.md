@@ -61,7 +61,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ## Web enumeration 
 
-We need first to add the vhost to /etc/hosts
+We need first to add this to /etc/hosts
 
 ```bash
 echo "10.129.23.119 fireflow.htb" | sudo tee -a /etc/hosts"
