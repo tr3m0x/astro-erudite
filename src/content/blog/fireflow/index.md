@@ -11,6 +11,7 @@ tags:
 authors:
   - tr3m0x
 image: ./assets/cover.png
+difficulty: Medium
 ---
 
 

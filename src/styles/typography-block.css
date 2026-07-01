@@ -39,6 +39,7 @@ prose-content {
 
     pre {
       max-block-size: min(68vh, 1000px);
+      overflow-x: auto;
       overflow-y: auto;
 
       &::-webkit-scrollbar-corner {
